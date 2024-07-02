@@ -28,6 +28,7 @@ void MatrixScreenPrintf(int x, int y, const Matrix4x4& matrix, const char* label
 }
 
 
+
 const char kWindowTitle[] = "GC2B_ナカノ_ユキ_タイトル";
 
 // Windowsアプリでのエントリーポイント(main関数)
